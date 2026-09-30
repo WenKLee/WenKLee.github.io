@@ -1,0 +1,50 @@
+[
+  {
+    "title": "PatchFusion: Resilient LiDAR-camera fusion for point cloud semantic segmentation in autonomous driving",
+    "year": "2026",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "doi": "10.1016/j.isprsjprs.2026.09.008"
+  },
+  {
+    "title": "P3D: Plug-and-play prompt-driven framework for RGB-thermal semantic segmentation",
+    "year": "2026",
+    "venue": "Pattern Recognition",
+    "doi": "10.1016/j.patcog.2026.113429"
+  },
+  {
+    "title": "TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution",
+    "year": "2026",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "doi": "10.1016/j.isprsjprs.2026.04.060"
+  },
+  {
+    "title": "RTPSeg: A multi-modality dataset for LiDAR point cloud semantic segmentation assisted with RGB-thermal images in autonomous driving",
+    "year": "2026",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "doi": "10.1016/j.isprsjprs.2026.01.008"
+  },
+  {
+    "title": "DCFI-Net: Dual-Branch Cross-Frequency Interaction Diffusion Model for Remote Sensing Image Shadow Removal",
+    "year": "2026",
+    "venue": "IEEE Geoscience and Remote Sensing Letters",
+    "doi": "10.1109/LGRS.2026.3652421"
+  },
+  {
+    "title": "TS-DeShadowNet: A Two-Stage Remote Sensing Image Shadow Removal Method",
+    "year": "2026",
+    "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3732247"
+  },
+  {
+    "title": "PhaseVSRnet: Deep complex network for phase-based satellite video super-resolution",
+    "year": "2025",
+    "venue": "International Journal of Applied Earth Observation and Geoinformation",
+    "doi": "10.1016/j.jag.2025.104418"
+  },
+  {
+    "title": "Supervised Contrastive Learning for Indoor Point Cloud Oversegmentation",
+    "year": "2025",
+    "venue": "IEEE Transactions on Multimedia",
+    "doi": "10.1109/TMM.2025.3613177"
+  }
+]
