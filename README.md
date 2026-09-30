@@ -2,11 +2,16 @@
 
 **Computer Vision · Multimodal Learning · Remote Sensing**
 
-Information Engineering University · Zhengzhou, China
+Sun Yat-sen University · Guangzhou, Guangdong, China
 
 [ORCID](https://orcid.org/0009-0004-7285-3026) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59654678400)
 
 My work spans multimodal semantic segmentation, point cloud understanding, video super-resolution, and remote sensing image restoration.
+
+## Education
+
+**Sun Yat-sen University** · Guangzhou, Guangdong, China  
+September 1, 2026 – Present
 
 ## Research interests
 
@@ -49,3 +54,4 @@ My work spans multimodal semantic segmentation, point cloud understanding, video
 ---
 
 Publication metadata is drawn from my [public ORCID record](https://orcid.org/0009-0004-7285-3026).
+
